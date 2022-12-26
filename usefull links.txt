@@ -1,1 +1,11 @@
+# resources webdevelopment
 https://codingheroes.io/resources/ - resource page web development
+
+https://devdocs.io/ - all documentations
+
+#compilers
+https://www.mingw-w64.org/downloads/ - mingw64-compiler
+
+https://www.oracle.com/in/java/technologies/downloads/ - java latest download
+
+https://dev.mysql.com/downloads/installer/ - mysql full installer
